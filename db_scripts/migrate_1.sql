@@ -35,3 +35,7 @@ SET `role` = CASE
         ELSE ''
     END
 WHERE musicianName IN ('Alina', 'Mysterio', 'Rainbow', 'Luna');
+
+/*
+ test
+ */

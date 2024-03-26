@@ -108,3 +108,7 @@ class Database:
 
     def get_migration_stack_size(self):
         return self.migration_counter
+
+/*
+ test
+ */
